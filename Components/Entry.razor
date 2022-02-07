@@ -1,0 +1,37 @@
+@using Models
+@using Classes
+@namespace Components
+@inject IJSRuntime JSRuntime
+
+<div class="col">
+    <div class="card" style="flex: 1">
+        <div class="card-body">
+            <div class="card-title">
+                @Song.Title
+            </div>
+            <h6 class="card-subtitle mb-2 text-muted">By @Song.Artist</h6>
+            <p class="card-text">
+                @foreach (Chord chord in Song.Chords)
+                {
+                    @chord.Title
+                    <br />
+                    @foreach (Tab tab in chord.Tabs)
+                    {
+                        <span>Fret: @tab.Fret String: @tab.String</span>
+                        <br />
+                    }
+                    <br />
+                }
+            </p>
+
+            <p class="card-text">
+                <small class="text-muted">Started @Song.StartDate.ToString("dd MMM yyyy")</small>
+            </p>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Song Song { get; set; }
+}

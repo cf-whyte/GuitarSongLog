@@ -8,53 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GuitarLog
 build_property.RootNamespace = GuitarLog
-build_property.ProjectDir = c:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\
+build_property.ProjectDir = C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog
+build_property.MSBuildProjectDirectory = C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/App.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Counter.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Components/Entry.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbnRyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/FetchData.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Index.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/SurveyPrompt.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Songs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/_Imports.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/MainLayout.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-olqw8uz2z8
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/NavMenu.razor]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6g1b34bolq
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Error.cshtml]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/_Host.cshtml]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/_Layout.cshtml]
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
