@@ -1,4 +1,6 @@
 # GuitarSongLog
+Author: Christian Whyte  
+Started: 7 Feb 2022
 ## Goals
 - To create a responsive song logging web application
 - Create an easy way to keep track of songs I am learning
