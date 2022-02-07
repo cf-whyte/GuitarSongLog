@@ -19,8 +19,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Components/Entry.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbnRyeS5yYXpvcg==
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Components/SpotifySongSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTcG90aWZ5U29uZ1NlYXJjaC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Counter.razor]
@@ -46,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Components/Entry.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbnRyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-6tmsvowuop
 
 [C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=

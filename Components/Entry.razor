@@ -5,28 +5,40 @@
 
 <div class="col">
     <div class="card" style="flex: 1">
-        <div class="card-body">
-            <div class="card-title">
-                @Song.Title
+        <div class="card-header d-flex">
+            <div>
+                <h5 class="card-title">
+                    @Song.Title
+                </h5>
+                <h6 class="card-subtitle mb-2 text-muted">By @Song.Artist</h6>
             </div>
-            <h6 class="card-subtitle mb-2 text-muted">By @Song.Artist</h6>
+
+            <a class="ml-auto card-link" href="@Song.Link" target="_blank"> <span class="oi oi-headphones" aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="card-body">
             <p class="card-text">
+                Chords:
                 @foreach (Chord chord in Song.Chords)
                 {
-                    @chord.Title
-                    <br />
-                    @foreach (Tab tab in chord.Tabs)
-                    {
+                    <span>@chord.Title &nbsp;</span>
+
+                    @* @foreach (Tab tab in chord.Tabs)
+                        {
                         <span>Fret: @tab.Fret String: @tab.String</span>
                         <br />
-                    }
-                    <br />
+                        }
+                        <br /> *@
                 }
             </p>
 
             <p class="card-text">
-                <small class="text-muted">Started @Song.StartDate.ToString("dd MMM yyyy")</small>
+
             </p>
+        </div>
+
+        <div class="card-footer">
+            <small class="text-muted">Added @Song.StartDate.ToString("dd MMM yyyy")</small>
         </div>
     </div>
 </div>

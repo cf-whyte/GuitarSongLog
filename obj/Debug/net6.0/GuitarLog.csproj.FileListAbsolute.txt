@@ -25,3 +25,4 @@ C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\obj\Debug\net6.0\GuitarLog.dll
 C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\obj\Debug\net6.0\ref\GuitarLog.dll
 C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\obj\Debug\net6.0\GuitarLog.pdb
 C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\obj\Debug\net6.0\GuitarLog.genruntimeconfig.cache
+C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\obj\Debug\net6.0\scopedcss\Components\Entry.razor.rz.scp.css

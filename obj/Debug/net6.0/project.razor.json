@@ -45,39 +45,6 @@
         }
       },
       {
-        "HashCode": 779316248,
-        "Kind": "Components.Component",
-        "Name": "GuitarLog.Pages.Index",
-        "AssemblyName": "GuitarLog",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GuitarLog.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 908754076,
-        "Kind": "Components.Component",
-        "Name": "GuitarLog.Pages.Index",
-        "AssemblyName": "GuitarLog",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GuitarLog.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GuitarLog.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 348334037,
         "Kind": "Components.Component",
         "Name": "GuitarLog.Pages.FetchData",
@@ -111,6 +78,39 @@
         }
       },
       {
+        "HashCode": 779316248,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.Pages.Index",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 908754076,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.Pages.Index",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GuitarLog.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1966115593,
         "Kind": "Components.Component",
         "Name": "GuitarLog.Pages.Songs",
@@ -140,6 +140,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "GuitarLog.Pages.Songs",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -787060327,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.App",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.App"
+        }
+      },
+      {
+        "HashCode": -592754340,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.App",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GuitarLog.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1363027196,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.Shared.SurveyPrompt",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": 783985552,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.Shared.SurveyPrompt",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GuitarLog.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -240,59 +326,6 @@
         }
       },
       {
-        "HashCode": -1363027196,
-        "Kind": "Components.Component",
-        "Name": "GuitarLog.Shared.SurveyPrompt",
-        "AssemblyName": "GuitarLog",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GuitarLog.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": 783985552,
-        "Kind": "Components.Component",
-        "Name": "GuitarLog.Shared.SurveyPrompt",
-        "AssemblyName": "GuitarLog",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "GuitarLog.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GuitarLog.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -184799058,
         "Kind": "Components.Component",
         "Name": "GuitarLog.Shared.NavMenu",
@@ -326,35 +359,35 @@
         }
       },
       {
-        "HashCode": -787060327,
+        "HashCode": -1521219745,
         "Kind": "Components.Component",
-        "Name": "GuitarLog.App",
+        "Name": "Components.SpotifySongSearch",
         "AssemblyName": "GuitarLog",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "SpotifySongSearch"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GuitarLog.App"
+          "Common.TypeName": "Components.SpotifySongSearch"
         }
       },
       {
-        "HashCode": -592754340,
+        "HashCode": 1695004397,
         "Kind": "Components.Component",
-        "Name": "GuitarLog.App",
+        "Name": "Components.SpotifySongSearch",
         "AssemblyName": "GuitarLog",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "GuitarLog.App"
+            "TagName": "Components.SpotifySongSearch"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "GuitarLog.App",
+          "Common.TypeName": "Components.SpotifySongSearch",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16697,6 +16730,11 @@
   },
   "RootNamespace": "GuitarLog",
   "Documents": [
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Components\\SpotifySongSearch.razor",
+      "TargetPath": "Components\\SpotifySongSearch.razor",
+      "FileKind": "component"
+    },
     {
       "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Shared\\MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
