@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\GuitarLog.csproj": {}
+    "C:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\GuitarLog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\GuitarLog.csproj": {
+    "C:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\GuitarLog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\GuitarLog.csproj",
+        "projectUniqueName": "C:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\GuitarLog.csproj",
         "projectName": "GuitarLog",
-        "projectPath": "C:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\GuitarLog.csproj",
+        "projectPath": "C:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\GuitarLog.csproj",
         "packagesPath": "C:\\Users\\cfwhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\obj\\",
+        "outputPath": "C:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cfwhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -8,65 +8,65 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GuitarLog
 build_property.RootNamespace = GuitarLog
-build_property.ProjectDir = C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog\
+build_property.ProjectDir = C:\Users\cfwhy\Desktop\Personal Projects\Songs\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\cfwhy\Desktop\Blazor Projects\GuitarLog
+build_property.MSBuildProjectDirectory = C:\Users\cfwhy\Desktop\Personal Projects\Songs
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/App.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Components/SpotifySongSearch.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Components/SpotifySongSearch.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTcG90aWZ5U29uZ1NlYXJjaC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Counter.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/FetchData.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Index.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Songs.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/Songs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU29uZ3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/SurveyPrompt.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/_Imports.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Components/Entry.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Components/Entry.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFbnRyeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-6tmsvowuop
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/MainLayout.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-olqw8uz2z8
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Shared/NavMenu.razor]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6g1b34bolq
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/Error.cshtml]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/_Host.cshtml]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/cfwhy/Desktop/Blazor Projects/GuitarLog/Pages/_Layout.cshtml]
+[C:/Users/cfwhy/Desktop/Personal Projects/Songs/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
