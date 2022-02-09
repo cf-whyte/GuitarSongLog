@@ -1,0 +1,49 @@
+@using Models
+@using Classes
+@namespace Components
+@inject IJSRuntime JSRuntime
+
+<div class="col">
+    <div class="card" style="flex: 1" Title="Click to go to song page">
+        <div class="card-header d-flex">
+            <div>
+                <h5 class="card-title">
+                    @Song.Title
+                </h5>
+                <h6 class="card-subtitle mb-2">By @Song.Artist</h6>
+            </div>
+
+            <a class="ml-auto card-link" href="@Song.Link" target="_blank" title="Listen to @Song.Title"> <span class="icon oi oi-headphones" aria-hidden="true"></span>
+            </a>
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                Chords:
+                @foreach (Chord chord in Song.Chords)
+                {
+                    <span>@chord.Title &nbsp;</span>
+
+                    @* @foreach (Tab tab in chord.Tabs)
+                        {
+                        <span>Fret: @tab.Fret String: @tab.String</span>
+                        <br />
+                        }
+                        <br /> *@
+                }
+            </p>
+
+            <p class="card-text">
+
+            </p>
+        </div>
+
+        <div class="card-footer">
+            <small class="text-muted">Added @Song.StartDate.ToString("dd MMM yyyy")</small>
+        </div>
+    </div>
+</div>
+
+@code {
+    [Parameter]
+    public Song Song { get; set; }
+}

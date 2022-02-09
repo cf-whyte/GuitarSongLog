@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\GuitarLog.csproj",
+  "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\GuitarLog.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -107,6 +107,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "GuitarLog.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1966115593,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.Pages.Songs",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Songs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.Pages.Songs"
+        }
+      },
+      {
+        "HashCode": -1117712425,
+        "Kind": "Components.Component",
+        "Name": "GuitarLog.Pages.Songs",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "GuitarLog.Pages.Songs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "GuitarLog.Pages.Songs",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -322,6 +355,92 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "GuitarLog.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1521219745,
+        "Kind": "Components.Component",
+        "Name": "Components.SpotifySongSearch",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SpotifySongSearch"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Components.SpotifySongSearch"
+        }
+      },
+      {
+        "HashCode": 1695004397,
+        "Kind": "Components.Component",
+        "Name": "Components.SpotifySongSearch",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Components.SpotifySongSearch"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Components.SpotifySongSearch",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -137612358,
+        "Kind": "Components.Component",
+        "Name": "Components.Entry",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Entry"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Song",
+            "TypeName": "Classes.Song",
+            "Metadata": {
+              "Common.PropertyName": "Song"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Components.Entry"
+        }
+      },
+      {
+        "HashCode": 943071515,
+        "Kind": "Components.Component",
+        "Name": "Components.Entry",
+        "AssemblyName": "GuitarLog",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Components.Entry"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Song",
+            "TypeName": "Classes.Song",
+            "Metadata": {
+              "Common.PropertyName": "Song"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Components.Entry",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16612,58 +16731,73 @@
   "RootNamespace": "GuitarLog",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Shared\\MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Pages\\Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\App.razor",
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Pages\\_Layout.cshtml",
-      "TargetPath": "Pages\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Shared\\SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\_Imports.razor",
-      "TargetPath": "_Imports.razor",
-      "FileKind": "componentImport"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Shared\\NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Pages\\FetchData.razor",
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Pages\\_Host.cshtml",
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Components\\Entry.razor",
+      "TargetPath": "Components\\Entry.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Shared\\NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\Songs.razor",
+      "TargetPath": "Pages\\Songs.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Components\\SpotifySongSearch.razor",
+      "TargetPath": "Components\\SpotifySongSearch.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Shared\\MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Shared\\SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Blazor Projects\\GuitarLog\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "c:\\Users\\cfwhy\\Desktop\\Personal Projects\\Songs\\Pages\\_Layout.cshtml",
+      "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
     }
   ],
