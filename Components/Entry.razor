@@ -4,7 +4,7 @@
 @inject IJSRuntime JSRuntime
 
 <div class="col">
-    <div class="card" style="flex: 1">
+    <div class="card" style="flex: 1" Title="Click to go to song page">
         <div class="card-header d-flex">
             <div>
                 <h5 class="card-title">
@@ -13,7 +13,7 @@
                 <h6 class="card-subtitle mb-2">By @Song.Artist</h6>
             </div>
 
-            <a class="ml-auto card-link" href="@Song.Link" target="_blank"> <span class="oi oi-headphones" aria-hidden="true"></span>
+            <a class="ml-auto card-link" href="@Song.Link" target="_blank" title="Listen to @Song.Title"> <span class="icon oi oi-headphones" aria-hidden="true"></span>
             </a>
         </div>
         <div class="card-body">

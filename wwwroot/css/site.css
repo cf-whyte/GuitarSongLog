@@ -71,30 +71,35 @@ a,
 /* -- Custom css -- */
 
 :root {
-	--p: #2e7d32;
-	--p-light: #60ad5e;
-	--p-dark: #005005;
+	--p: #1976d2;
+	--p-light: #63a4ff;
+	--p-dark: #004ba0;
 	--s: #757575;
 	--s-light: #a4a4a4;
 	--s-dark: #494949;
+	--text-light: #eee;
+	--text-dark: #111;
 }
 
 .card:hover {
-	box-shadow: 5px 5px var(--p-dark);
+	box-shadow: 5px 5px var(--s-dark);
 }
 
 .card-header {
-	background-image: linear-gradient(var(--p-light), var(--p));
+	background-color: var(--p-light);
+}
+
+.card-title {
+	color: var(--text-dark);
 }
 
 .card-subtitle {
-	color: #111;
+	color: var(--text-dark);
 }
 
-.card-subtitle {
-	color: #333;
+.icon {
+	color: var(--text-dark);
 }
-
-.oi {
-	color: #005005;
+.icon:hover {
+	text-decoration: underline var(--text-dark);
 }
