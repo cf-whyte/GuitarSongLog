@@ -10,9 +10,9 @@ Started: 7 Feb 2022
 - Bandcamp song search API (if it exists)
 - Get the chords API (if it exists)
 ## Colours
-Primary - #2e7d32
-Primary Light - #60ad5e
-Primary Dark - #005005
-Secondary - #757575
-Secondary Light - #a4a4a4
-Secondary Dark - #494949
+- Primary - #2e7d32
+- Primary Light - #60ad5e
+- Primary Dark - #005005
+- Secondary - #757575
+- Secondary Light - #a4a4a4
+- Secondary Dark - #494949
